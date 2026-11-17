@@ -16,4 +16,6 @@ machine_learning_labs/
 ├── decision_tree/
 ├── linear_and_logistic_regression/
 ├── naive_bayes/
+├── pytorch/
 └── stayease/
+
